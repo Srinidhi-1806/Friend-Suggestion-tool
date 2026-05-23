@@ -1,0 +1,9 @@
+{
+  "name": "FriendSuggestionTool",
+  "targets": {
+    "default": {
+      "entry": "index.html",
+      "type": "web"
+    }
+  }
+}
